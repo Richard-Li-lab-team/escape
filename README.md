@@ -25,6 +25,8 @@ Single-cell sequencing (SCS) is an emerging technology in the across the diverse
 ### Installation
 
 ```devtools::install_github("ncborcherding/escape")```
+Modifed Verison
+```devtools::install_github("Richard-Li-lab-team/escape")```
 
 ### Learning To Use escape:
 
